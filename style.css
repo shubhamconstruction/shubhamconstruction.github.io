@@ -1543,3 +1543,14 @@ section {
   background: #ffce3a;
   text-decoration: none;
 }
+
+.watermarkOnImg {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 92%;
+  padding: 20px;
+  font-size: 20px;
+}
